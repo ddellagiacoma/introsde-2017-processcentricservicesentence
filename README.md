@@ -1,5 +1,7 @@
 # Process Centric Service Sentence (SOAP)
 
+This service is part of the project described [here](https://github.com/ddellagiacoma/introsde-2017-userinterface).
+
 * **registration:** pass required data to the storage services in order to register a new user, return the id of the person saved.
 
 *	**login:** pass required data to the storage service in order to log in,return the id of the person if succeed.
